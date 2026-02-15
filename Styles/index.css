@@ -1,0 +1,201 @@
+.Header{ /* ##total header section style## */
+    height: 100px;
+    width: 100%;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 30px;
+    text-shadow: 5px 5px 10px 
+    rgb(255, 0, 0);
+    /* background-image: linear-gradient(to bottom right, red, yellow, blueviolet); */
+    background-image: url('../Module-1/Images/headers.jpg');
+    background-repeat: none;
+    background-position: center;
+    background-size: cover;
+    /* visibility: hidden; */
+    /* display: none; */
+    border: 2px solid orangered;
+}
+
+.x{ /*Over all Content div section style*/
+    height: 250px;
+    width: 98.8%;
+    background-color: #f5deb3;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: justify;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 10px orangered;
+    border: 2px solid orangered;
+}
+.y{ /*Only content upper header style*/
+    text-align: center;
+    color: orangered;
+    font-size: 30px;
+    margin-top: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    background-image: linear-gradient(to bottom right, violet, #271838, blueviolet);
+    width: 600px;
+    height: 50px;
+    align-content: center;
+    margin-left: 450px;
+    border: 1px solid  #271838;
+    border-radius: 10px;
+    box-shadow: 10px 10px 15px #192138;
+}
+
+.z{/*In the only content(text) section styles*/
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    margin-top: -25px;
+    color: #5b1841;
+}
+.aa{
+    border: 2px solid orangered;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: bold;
+    color: red;
+    /* display: none; */
+    /* visibility: hidden; */
+}
+
+.a{/*listing main section CSS*/
+  background-color:  #222c50;
+  color: orangered;
+  /* text-align: center; */
+  align-content: center;  
+}
+
+#A{/*Header 2 only style top in the section*/
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-shadow: 5px 5px 5px orangered;
+
+}
+
+.b{ /*Header 4 all style*/
+    color: orangered;
+    font-size: 25px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    /* text-decoration: underline; */
+    font-style: italic;
+}
+
+.c{/*All list style*/
+    color: wheat;
+    font-size: large;
+    text-align: none;
+    align-content: none;
+    margin-left: 690px;
+    margin-top: -20px;
+}
+
+.d{ /*Header 4 only description list style*/
+    color: white;
+    font-size: 25px;
+    /* text-align: left; */
+    padding-left: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+#d{/*Description list content style only*/
+    color: #fae0f1;
+    padding: 10px;
+    text-align: justify;
+}
+
+#tuly{/*Form upper Header (Aiswarjo's Form)*/
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    margin-top: 10px;
+    text-align: center;
+    align-content: center;
+    /* display: flex; */
+    justify-content: center; 
+    text-transform: uppercase;
+    background-image: linear-gradient(to bottom right, pink, red, orangered);
+    width: 600px;
+    height: 50px;
+    margin-left: 450px;
+    border: 1px solid  #271838;
+    border-radius: 10px;
+    box-shadow: 10px 10px 15px #192138;
+}
+
+.e{/*Form Outer div section*/
+    background-color: rgb(221, 217, 208);
+    align-content: center;
+    height: 850px;
+    margin-top: 10px;
+    border: 1px solid;
+}
+
+.f{/*for all form apply*/
+    background-color: wheat;
+    border: 3px solid orangered;
+    width: 600px;
+    height: 740px;
+    margin-left: 430px;
+    padding-left: 60px;
+    margin-bottom: 20px;
+}
+
+.g{/*Top Heading in form (signup)*/
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+}
+
+input{
+    margin-bottom: 12px;
+    color: orangered;
+    font-weight: bold;
+}
+label{
+    color: #222c50;
+    font-weight: bold;
+}
+.label{
+    color: #222c50;
+    font-weight: bold;
+}
+
+#radio{
+    margin-left: 230px;
+    color: red;
+    /* display: inline-block; */
+}
+
+::placeholder{
+    color: #5b1841;
+    font-weight: none;
+    font-size: 12px;
+}
+
+/* .dd{
+    margin-bottom: 200px;
+} */
+
+footer{
+    text-align: center;
+    font-size: 18px;
+    height: 40px;
+    width: 100%;
+    align-content: center;
+}
